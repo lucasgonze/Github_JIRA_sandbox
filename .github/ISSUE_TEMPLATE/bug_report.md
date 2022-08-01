@@ -1,5 +1,6 @@
 ---
 name: Bug Report
+about: Describe a scenario in which this project behaves unexpectedly
 description: File a bug report
 title: "[Bug]: "
 labels: ["bug", "triage"]
