@@ -1,4 +1,3 @@
----
 name: Bug Report
 about: Describe a scenario in which this project behaves unexpectedly
 description: File a bug report
@@ -61,4 +60,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
----
