@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-We have recently made a consolidation of the many channels used to file Feature Request.  In the spirit of improving our means of consolidating and having visibility on all FR in one tool, we felt that it's best for them to be submitted through [Issues Portal](issues.newrelic.com). A single tool will enable better visibility to these Feature Request and improve our ability to aggregate requests and get back to our users with a more complete picture. 
+We recently consolidate multiple channels that were used to file Feature Request (FR).  In the spirit of improving the visibility of FRs, we felt that it's best for them to be submitted through [New Relic Issue Tracker](issues.newrelic.com). A single tool will enable better aggregation of FRs and improve our ability to consolidate requests and provide better value to our users. 
 
-We continue to welcome feature request from our open source community through the issues.newrelic.com portal.  
+We continue to welcome feature request from our open source community through the issues.newrelic.com portal.
