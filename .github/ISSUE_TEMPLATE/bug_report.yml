@@ -16,16 +16,3 @@ body:
       value: "A bug happened!"
     validations:
       required: true
-  - type: dropdown
-    id: jira-status
-    attributes:
-      label: Jira Status (Internal)
-      multiple: false
-      options:
-        - Backlog
-        - Selected for Development
-        - In Progress
-        - In Review
-        - In Staging
-        - Blocked 
-        - Closed
